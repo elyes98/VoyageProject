@@ -1,0 +1,38 @@
+peline {
+
+    agent { label 'docker'} 
+    stages {
+ //       stage ('GIT') {
+ //           steps {
+//               echo "Getting Project from Git"; 
+  //               
+    //            git branch: "master", 
+      //             url : "https://elyes98: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@github.com/elyes98/VoyageProject.git";
+                
+        //    }
+    //    }
+       
+  /*      stage("Build") {
+           steps {
+                sh "mvn -version"
+                sh "mvn clean package -DskipTests"
+          }
+        }*/
+        
+        
+         stage("Build Docker image") {
+             steps {
+                 sh "docker build -t image1 /home/vagrant/docker/VoyageProject"
+                 sh "docker images"
+             }
+         }
+
+        stage("Start container") {
+                steps {
+                               
+                    sh "docker-compose up -d";
+                }         
+           }
+   
+    }    
+}

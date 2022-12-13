@@ -1,0 +1,224 @@
+--- Copying files at Sat Dec 10 08:08:43 UTC 2022
+INSTALLED plugins/workflow-job.jpi : 1189.va_d37a_e9e4eda_
+INSTALLED plugins/scm-api.jpi : 621.vda_a_b_055e58f7
+INSTALLED plugins/pipeline-model-definition.jpi : 2.2114.v2654ca_721309
+INSTALLED plugins/pipeline-groovy-lib.jpi : 612.v84da_9c54906d
+INSTALLED plugins/ssh-credentials.jpi : 277.280.v1e86b_7d0056b_
+INSTALLED plugins/durable-task.jpi : 500.v8927d9fd99d8
+INSTALLED plugins/echarts-api.jpi : 5.3.3-1
+INSTALLED plugins/jakarta-activation-api.jpi : 2.0.1-1
+INSTALLED plugins/credentials.jpi : 1143.vb_e8b_b_ceee347
+INSTALLED plugins/pipeline-model-extensions.jpi : 2.2114.v2654ca_721309
+INSTALLED plugins/cloudbees-folder.jpi : 6.740.ve4f4ffa_dea_54
+INSTALLED plugins/workflow-basic-steps.jpi : 994.vd57e3ca_46d24
+INSTALLED plugins/git.jpi : 4.11.5
+INSTALLED plugins/github.jpi : 1.34.3.1
+INSTALLED plugins/workflow-cps.jpi : 2729.vea_17b_79ed57a_
+INSTALLED plugins/variant.jpi : 59.vf075fe829ccb
+INSTALLED plugins/blueocean-autofavorite.jpi : 1.2.5
+INSTALLED plugins/github-branch-source.jpi : 1677.v731f745ea_0cf
+INSTALLED plugins/blueocean-commons.jpi : 1.25.7
+INSTALLED plugins/checks-api.jpi : 1.7.5
+INSTALLED plugins/apache-httpcomponents-client-4-api.jpi : 4.5.13-138.v4e7d9a_7b_a_e61
+INSTALLED plugins/script-security.jpi : 1175.v4b_d517d6db_f0
+INSTALLED plugins/pipeline-graph-analysis.jpi : 195.v5812d95a_a_2f9
+INSTALLED plugins/workflow-scm-step.jpi : 400.v6b_89a_1317c9a_
+INSTALLED plugins/workflow-step-api.jpi : 639.v6eca_cd8c04a_a_
+INSTALLED plugins/workflow-support.jpi : 838.va_3a_087b_4055b
+INSTALLED plugins/javax-activation-api.jpi : 1.2.0-4
+INSTALLED plugins/github-api.jpi : 1.303-400.v35c2d8258028
+INSTALLED plugins/pubsub-light.jpi : 1.16
+INSTALLED plugins/junit.jpi : 1119.1121.vc43d0fc45561
+INSTALLED plugins/blueocean-github-pipeline.jpi : 1.25.7
+INSTALLED plugins/blueocean-display-url.jpi : 2.4.1
+INSTALLED plugins/ace-editor.jpi : 1.1
+INSTALLED plugins/pipeline-model-api.jpi : 2.2114.v2654ca_721309
+INSTALLED plugins/pipeline-milestone-step.jpi : 101.vd572fef9d926
+INSTALLED plugins/plain-credentials.jpi : 139.ved2b_9cf7587b
+INSTALLED plugins/credentials-binding.jpi : 523.vd859a_4b_122e6
+INSTALLED plugins/blueocean-events.jpi : 1.25.7
+INSTALLED plugins/branch-api.jpi : 2.1046.v0ca_37783ecc5
+INSTALLED plugins/jsch.jpi : 0.1.55.61.va_e9ee26616e7
+INSTALLED plugins/blueocean-git-pipeline.jpi : 1.25.7
+INSTALLED plugins/pipeline-stage-step.jpi : 293.v200037eefcd5
+INSTALLED plugins/font-awesome-api.jpi : 6.1.2-1
+INSTALLED plugins/snakeyaml-api.jpi : 1.31-84.ve43da_fb_49d0b
+INSTALLED plugins/blueocean-bitbucket-pipeline.jpi : 1.25.7
+INSTALLED plugins/blueocean.jpi : 1.25.7
+INSTALLED plugins/workflow-api.jpi : 1192.v2d0deb_19d212
+INSTALLED plugins/antisamy-markup-formatter.jpi : 2.7
+INSTALLED plugins/jenkins-design-language.jpi : 1.25.7
+INSTALLED plugins/jaxb.jpi : 2.3.6-1
+INSTALLED plugins/blueocean-rest.jpi : 1.25.7
+INSTALLED plugins/cloudbees-bitbucket-branch-source.jpi : 791.vb_eea_a_476405b
+INSTALLED plugins/structs.jpi : 324.va_f5d6774f3a_d
+INSTALLED plugins/pipeline-build-step.jpi : 2.18
+INSTALLED plugins/pipeline-stage-tags-metadata.jpi : 2.2114.v2654ca_721309
+INSTALLED plugins/blueocean-i18n.jpi : 1.25.7
+INSTALLED plugins/htmlpublisher.jpi : 1.30
+INSTALLED plugins/blueocean-dashboard.jpi : 1.25.7
+INSTALLED plugins/blueocean-personalization.jpi : 1.25.7
+INSTALLED plugins/workflow-multibranch.jpi : 716.vc692a_e52371b_
+INSTALLED plugins/blueocean-web.jpi : 1.25.7
+INSTALLED plugins/blueocean-pipeline-editor.jpi : 1.25.7
+INSTALLED plugins/plugin-util-api.jpi : 2.17.0
+INSTALLED plugins/blueocean-core-js.jpi : 1.25.7
+INSTALLED plugins/bootstrap5-api.jpi : 5.2.0-1
+INSTALLED plugins/caffeine-api.jpi : 2.9.3-65.v6a_47d0f4d1fe
+INSTALLED plugins/matrix-project.jpi : 772.v494f19991984
+INSTALLED plugins/okhttp-api.jpi : 4.9.3-108.v0feda04578cf
+INSTALLED plugins/jackson2-api.jpi : 2.13.3-285.vc03c0256d517
+INSTALLED plugins/blueocean-jwt.jpi : 1.25.7
+INSTALLED plugins/matrix-auth.jpi : 3.1.5
+INSTALLED plugins/jquery3-api.jpi : 3.6.0-4
+INSTALLED plugins/display-url-api.jpi : 2.3.6
+INSTALLED plugins/workflow-durable-task-step.jpi : 1190.vc93d7d457042
+INSTALLED plugins/jakarta-mail-api.jpi : 2.0.1-1
+INSTALLED plugins/token-macro.jpi : 308.v4f2b_ed62b_b_16
+INSTALLED plugins/blueocean-rest-impl.jpi : 1.25.7
+INSTALLED plugins/git-client.jpi : 3.11.2
+INSTALLED plugins/trilead-api.jpi : 1.67.vc3938a_35172f
+INSTALLED plugins/popper2-api.jpi : 2.11.6-1
+INSTALLED plugins/mailer.jpi : 435.v79ef3972b_5c7
+INSTALLED plugins/jjwt-api.jpi : 0.11.5-77.v646c772fddb_0
+INSTALLED plugins/blueocean-config.jpi : 1.25.7
+INSTALLED plugins/sse-gateway.jpi : 1.25
+INSTALLED plugins/blueocean-pipeline-scm-api.jpi : 1.25.7
+INSTALLED plugins/handy-uri-templates-2-api.jpi : 2.1.8-22.v77d5b_75e6953
+INSTALLED plugins/authentication-tokens.jpi : 1.4
+INSTALLED plugins/favorite.jpi : 2.4.1
+INSTALLED plugins/blueocean-pipeline-api-impl.jpi : 1.25.7
+INSTALLED plugins/pipeline-input-step.jpi : 449.v77f0e8b_845c4
+--- Copying files at Sat Dec 10 08:23:23 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+UPGRADED plugins/mailer.jpi : Image version (435.v79ef3972b_5c7) is newer than installed version (435.438.v5b_81173f5b_a_1)
+--- Copying files at Sat Dec 10 08:34:33 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+UPGRADED plugins/mailer.jpi : Image version (435.v79ef3972b_5c7) is newer than installed version (435.438.v5b_81173f5b_a_1)
+--- Copying files at Sat Dec 10 08:45:18 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+UPGRADED plugins/mailer.jpi : Image version (435.v79ef3972b_5c7) is newer than installed version (435.438.v5b_81173f5b_a_1)
+--- Copying files at Sat Dec 10 08:51:13 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Sat Dec 10 22:17:01 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Sat Dec 10 23:29:38 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Sat Dec 10 23:50:07 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Sun Dec 11 00:06:16 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Sun Dec 11 00:10:48 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+UPGRADED plugins/mailer.jpi : Image version (435.v79ef3972b_5c7) is newer than installed version (435.438.v5b_81173f5b_a_1)
+--- Copying files at Sun Dec 11 07:00:41 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Mon Dec 12 23:26:41 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Tue Dec 13 02:19:20 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
+--- Copying files at Tue Dec 13 02:35:46 UTC 2022
+SKIPPED plugins/ssh-credentials.jpi : Installed version (305.v8f4381501156) has been manually upgraded from initial version (277.280.v1e86b_7d0056b_)
+SKIPPED plugins/git.jpi : Installed version (4.14.2) has been manually upgraded from initial version (4.11.5)
+SKIPPED plugins/github.jpi : Installed version (1.34.5) has been manually upgraded from initial version (1.34.3.1)
+SKIPPED plugins/github-branch-source.jpi : Installed version (1696.v3a_7603564d04) has been manually upgraded from initial version (1677.v731f745ea_0cf)
+SKIPPED plugins/script-security.jpi : Installed version (1228.vd93135a_2fb_25) has been manually upgraded from initial version (1175.v4b_d517d6db_f0)
+SKIPPED plugins/workflow-api.jpi : Installed version (1200.v8005c684b_a_c6) has been manually upgraded from initial version (1192.v2d0deb_19d212)
+SKIPPED plugins/antisamy-markup-formatter.jpi : Installed version (155.v795fb_8702324) has been manually upgraded from initial version (2.7)
+SKIPPED plugins/token-macro.jpi : Installed version (321.vd7cc1f2a_52c8) has been manually upgraded from initial version (308.v4f2b_ed62b_b_16)
+SKIPPED plugins/git-client.jpi : Installed version (3.13.1) has been manually upgraded from initial version (3.11.2)
